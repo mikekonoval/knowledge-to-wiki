@@ -1,0 +1,18 @@
+# Публикуем сам скилл (knowledge-to-wiki/). Ниже — что НЕ уходит в репозиторий.
+
+# Прогоны: полный текст чужой книги (.epub) и транскрипты чужих видео → копирайт.
+/test-runs/
+
+# Внутренняя кухня проекта, не нужна публике.
+/context/
+/references/
+/CLAUDE.md
+/.claude/
+
+# OS / редактор / Python
+.DS_Store
+Thumbs.db
+__pycache__/
+*.pyc
+.idea/
+.vscode/
